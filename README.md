@@ -5,10 +5,12 @@ PoLoT (Pothole Locator and Tracker) là một ứng dụng Android giúp phát h
 ## 🚀 Tính năng chính
 
 - 📡 **Phát hiện ổ gà** sử dụng cảm biến Accelerometer trên điện thoại (Gia tốc kế).
-- 🗺️ **Hiển thị ổ gà** trên bản đồ Mapsforge.
-- 🔁 **Cập nhật thời gian thực** vị trí ổ gà lên server Node.js.
+- 🗺️ **Hiển thị ổ gà** trên bản đồ Mapsforge với các biểu tượng minh họa rõ ràng.
 - 🧭 **Theo dõi vị trí hiện tại** của người dùng bằng GPS.
-- 🧩 Giao diện trực quan, dễ sử dụng.
+- 🔄 **Cập nhật ổ gà theo thời gian thực** lên máy chủ Node.js và đồng bộ với người dùng khác.
+- 🧠 **Phân loại ổ gà** theo 3 mức độ: Nhẹ, Trung bình, và Nặng — dựa trên mức độ rung động thu được.
+- 🧭 **Chỉ đường** từ vị trí hiện tại tới địa điểm mong muốn, kết hợp cảnh báo ổ gà trên tuyến đường.
+- 🧩 Giao diện trực quan, dễ sử dụng và thân thiện với người dùng.
 
 ## 📷 Giao diện (Screenshots)
 <p align="center">
