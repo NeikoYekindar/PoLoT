@@ -39,5 +39,5 @@ PoLoT (Pothole Locator and Tracker) là một ứng dụng Android giúp phát h
 #### 1. Clone dự án từ GitHub
 
 ```bash
-git clone https://github.com/<your-username>/PoLoT-DetectPotholes.git
-cd PoLoT-DetectPotholes
+https://github.com/NeikoYekindar/PoLoT.git
+cd PoLoT
