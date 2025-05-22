@@ -27,10 +27,10 @@ PoLoT (Pothole Locator and Tracker) là một ứng dụng Android giúp phát h
 
 ### 🔧 Yêu cầu hệ thống
 
-- ✅ Android Studio (Arctic Fox trở lên)
-- ✅ Thiết bị Android có cảm biến **Accelerometer** và **GPS**
-- ✅ Máy chủ **Node.js** đang chạy REST API
-- ✅ Kết nối Internet hoặc mạng nội bộ để gửi dữ liệu đến server
+- Android Studio (Arctic Fox trở lên)
+- Thiết bị Android có cảm biến **Accelerometer** và **GPS**
+- Máy chủ **Node.js** đang chạy REST API
+- Kết nối Internet hoặc mạng nội bộ để gửi dữ liệu đến server
 
 ---
 
