@@ -23,8 +23,21 @@ PoLoT (Pothole Locator and Tracker) là một ứng dụng Android giúp phát h
 
 ![flow_syst](https://github.com/user-attachments/assets/f53d6fc6-a6d5-4550-b422-8a264e23233c)
 
-### 1. Yêu cầu
+## ⚙️ Cài đặt & chạy ứng dụng
 
-- Android Studio.
-- Thiết bị Android có cảm biến gia tốc và GPS.
-- Máy chủ Node.js đang hoạt động.
+### 🔧 Yêu cầu hệ thống
+
+- ✅ Android Studio (Arctic Fox trở lên)
+- ✅ Thiết bị Android có cảm biến **Accelerometer** và **GPS**
+- ✅ Máy chủ **Node.js** đang chạy REST API
+- ✅ Kết nối Internet hoặc mạng nội bộ để gửi dữ liệu đến server
+
+---
+
+### 📥 Hướng dẫn cài đặt
+
+#### 1. Clone dự án từ GitHub
+
+```bash
+git clone https://github.com/<your-username>/PoLoT-DetectPotholes.git
+cd PoLoT-DetectPotholes
