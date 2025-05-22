@@ -11,4 +11,4 @@ PoLoT (Pothole Locator and Tracker) là một ứng dụng Android giúp phát h
 - 🧩 Giao diện trực quan, dễ sử dụng.
 
 ## 📷 Giao diện (Screenshots)
-![Uploading Welcome.png…]()
+![Welcome](https://github.com/user-attachments/assets/47d2ed2d-ff0d-4a49-9c38-ec6e1bf9a145)
