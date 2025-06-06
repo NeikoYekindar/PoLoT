@@ -26,6 +26,15 @@
   <img src="https://github.com/user-attachments/assets/870bcb19-df5b-435a-bfc9-4f456c059fb4" alt="Map" width="30%" />
 </p>
 
+
 ## ⚙️ Flow hoạt động
 
 ![Group 9019](https://github.com/user-attachments/assets/77247a81-f277-4c7d-b1f2-57c37a310ff5)
+
+1. Người dùng mở ứng dụng, bản đồ sẽ tự động hiển thị vị trí hiện tại bằng GPS.
+2. Các điểm đánh dấu (markers) được tải từ backend hoặc thêm thủ công vào bản đồ.
+3. Người dùng có thể nhấn vào một marker để xem chi tiết hoặc bắt đầu điều hướng.
+4. Nếu người dùng chọn một điểm đích, ứng dụng sẽ gửi yêu cầu tuyến đường (route) đến OSRM server hoặc API tương ứng.
+5. Tuyến đường được vẽ lên bản đồ và người dùng có thể theo dõi chỉ đường trong thời gian thực.
+
+
