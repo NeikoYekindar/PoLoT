@@ -19,12 +19,10 @@
 ## 📷 Ảnh minh họa
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/991673e4-7c63-4577-bf6d-64a124443752" alt="Welcome" width="30%" />
+  <img src="https://github.com/user-attachments/assets/077d8ea0-f9fe-444d-8750-70e31199b2fd" alt="Welcome" width="30%" />
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/55e743c7-c1b5-465a-baba-942ecee30c7d" alt="Dashboard1" width="30%" />
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/870bcb19-df5b-435a-bfc9-4f456c059fb4" alt="Map" width="30%" />
 </p>
-
-
 
