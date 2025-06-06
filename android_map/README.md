@@ -26,3 +26,6 @@
   <img src="https://github.com/user-attachments/assets/870bcb19-df5b-435a-bfc9-4f456c059fb4" alt="Map" width="30%" />
 </p>
 
+## ⚙️ Flow hoạt động
+
+![Group 9019](https://github.com/user-attachments/assets/77247a81-f277-4c7d-b1f2-57c37a310ff5)
