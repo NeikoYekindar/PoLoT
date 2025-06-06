@@ -29,7 +29,7 @@
 
 ## ⚙️ Flow hoạt động
 
-![Group 9019](https://github.com/user-attachments/assets/77247a81-f277-4c7d-b1f2-57c37a310ff5)
+![Group 9019](https://github.com/user-attachments/assets/c01c5cf8-7ffb-47f2-8d13-f59b88e7a946)
 
 1. Người dùng mở ứng dụng, bản đồ sẽ tự động hiển thị vị trí hiện tại bằng GPS.
 2. Các điểm đánh dấu (markers) được tải từ backend hoặc thêm thủ công vào bản đồ.
